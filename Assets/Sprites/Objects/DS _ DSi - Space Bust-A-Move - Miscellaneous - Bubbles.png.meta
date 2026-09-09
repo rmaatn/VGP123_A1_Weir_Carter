@@ -1,0 +1,2029 @@
+fileFormatVersion: 2
+guid: 64cf33aeac9bf5a41b73536e53b6839e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5963721542126298918
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_0
+  - first:
+      213: -2339521776234063750
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_1
+  - first:
+      213: 7995503218151331272
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_2
+  - first:
+      213: -8298127949057675176
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_3
+  - first:
+      213: -1609730412467888696
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_4
+  - first:
+      213: 5540913172282733798
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_5
+  - first:
+      213: 8574822137420983140
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_6
+  - first:
+      213: -4941351958277849274
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_7
+  - first:
+      213: -3099086657330045472
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_8
+  - first:
+      213: -2440700551665071461
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_9
+  - first:
+      213: 4361852436217718225
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_10
+  - first:
+      213: 2435403090667078444
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_11
+  - first:
+      213: 5634011491934487387
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_12
+  - first:
+      213: 7831957122051411355
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_13
+  - first:
+      213: 8036832159397014602
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_14
+  - first:
+      213: -6164576009347799245
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_15
+  - first:
+      213: 4940074667621909439
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_16
+  - first:
+      213: 6103062243787364190
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_17
+  - first:
+      213: 4803867367392122089
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_18
+  - first:
+      213: 5194536057854688886
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_19
+  - first:
+      213: 7315197094540117740
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_20
+  - first:
+      213: -488920407944399225
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_21
+  - first:
+      213: 8029583437185674212
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_22
+  - first:
+      213: 8535570771320655556
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_23
+  - first:
+      213: -6817289174557623291
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_24
+  - first:
+      213: 5386735844472889176
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_25
+  - first:
+      213: -7347110374463142299
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_26
+  - first:
+      213: -1010840263505710718
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_27
+  - first:
+      213: 3164423217162075212
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_28
+  - first:
+      213: 7627581407221078429
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_29
+  - first:
+      213: -1862023933263630067
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_30
+  - first:
+      213: -5212137074638294601
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_31
+  - first:
+      213: 7594823118548115064
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_32
+  - first:
+      213: 6234758515401106107
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_33
+  - first:
+      213: 2962104706262458958
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_34
+  - first:
+      213: -6197533248181668889
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_35
+  - first:
+      213: -2666673240554577584
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_36
+  - first:
+      213: -5461231646035072976
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_37
+  - first:
+      213: 2610324419809192857
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_38
+  - first:
+      213: 6757499157336566363
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_39
+  - first:
+      213: -8978167018362761126
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_40
+  - first:
+      213: 5546849390897736304
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_41
+  - first:
+      213: 6872025068160688478
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_42
+  - first:
+      213: 4971713999671045472
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_43
+  - first:
+      213: 915150059814960571
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_44
+  - first:
+      213: 186866580395860062
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_45
+  - first:
+      213: 1706967549723855730
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_46
+  - first:
+      213: 4511321386893578983
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_47
+  - first:
+      213: 2723158985009938898
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_48
+  - first:
+      213: -1196225942201947574
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_49
+  - first:
+      213: -7912750804130859247
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_50
+  - first:
+      213: -497719227422910716
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_51
+  - first:
+      213: -4161544004902837319
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_52
+  - first:
+      213: 8406063924267536613
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_53
+  - first:
+      213: -3631307782738721738
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_54
+  - first:
+      213: 8681921727692556637
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_55
+  - first:
+      213: 5881838385358740398
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_56
+  - first:
+      213: -3248132054888251616
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_57
+  - first:
+      213: 7748979341161077569
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_58
+  - first:
+      213: -3876484640967639904
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_59
+  - first:
+      213: 311604220341317836
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_60
+  - first:
+      213: -3592059041112643569
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_61
+  - first:
+      213: 1769129521908574187
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_62
+  - first:
+      213: -3135330136425802455
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_63
+  - first:
+      213: -9115479235359119801
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_64
+  - first:
+      213: 7667222892550322610
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_65
+  - first:
+      213: 6742951522070915222
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_66
+  - first:
+      213: 8210803152393424705
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_67
+  - first:
+      213: -5785426162053611360
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_68
+  - first:
+      213: 4807965738920449252
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_69
+  - first:
+      213: -9176279096872953974
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_70
+  - first:
+      213: -3512055926244817225
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_71
+  - first:
+      213: 5129940582673748661
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_72
+  - first:
+      213: 901134030211484077
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_73
+  - first:
+      213: -2380993598546994490
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_74
+  - first:
+      213: -989049042391583665
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_75
+  - first:
+      213: 7906286663856690041
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_76
+  - first:
+      213: -6581715737265646611
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_77
+  - first:
+      213: 3425250986326461784
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_78
+  - first:
+      213: -8410957267299678757
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_79
+  - first:
+      213: 7457565150392746418
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_80
+  - first:
+      213: 4951201224202204333
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_81
+  - first:
+      213: 5491837496344839450
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_82
+  - first:
+      213: -3331987948098483416
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_83
+  - first:
+      213: 5720815695582290219
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_84
+  - first:
+      213: -2410976566870760311
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_85
+  - first:
+      213: 7819917950265671375
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_86
+  - first:
+      213: -8343557633778575495
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_87
+  - first:
+      213: -4347677702842649707
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_88
+  - first:
+      213: -4794064423690632585
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_89
+  - first:
+      213: -852619223669297206
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_90
+  - first:
+      213: -2866409187189471200
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_91
+  - first:
+      213: -1500743088554872613
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_92
+  - first:
+      213: 1190736055059572743
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_93
+  - first:
+      213: 360848353860099850
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_94
+  - first:
+      213: -8433989098007823218
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_95
+  - first:
+      213: -6270906910075056616
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_96
+  - first:
+      213: 774085749449240515
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_97
+  - first:
+      213: -1618817485708262534
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_98
+  - first:
+      213: -4604081852103469356
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_99
+  - first:
+      213: 1538622889680409272
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_100
+  - first:
+      213: -4439930184712604023
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_101
+  - first:
+      213: -5648243209442551202
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_102
+  - first:
+      213: 4186122061668634218
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_103
+  - first:
+      213: 1440356550449426859
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_104
+  - first:
+      213: -1812465752821640834
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_105
+  - first:
+      213: -3554607066696325940
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_106
+  - first:
+      213: -6002948977464504114
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_107
+  - first:
+      213: -7439747931430947838
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_108
+  - first:
+      213: -4717935805812998228
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_109
+  - first:
+      213: 4949032942875038276
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_110
+  - first:
+      213: 6692908415632714011
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_111
+  - first:
+      213: 2811008869198251159
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_112
+  - first:
+      213: -5513927201600844764
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_113
+  - first:
+      213: 8362871942588231939
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_114
+  - first:
+      213: -3417517007332990904
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_115
+  - first:
+      213: 4341432761156529009
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_116
+  - first:
+      213: 4461527007212699427
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_117
+  - first:
+      213: -7540123606199840444
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_118
+  - first:
+      213: 318686048635852467
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_119
+  - first:
+      213: -7244946799945696949
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_120
+  - first:
+      213: 3366458410596897159
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_121
+  - first:
+      213: -2335642956648613993
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_122
+  - first:
+      213: -2673315289429000168
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_123
+  - first:
+      213: -4545382727862493070
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_124
+  - first:
+      213: -2896431249294940669
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_125
+  - first:
+      213: 7578503686141532963
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_126
+  - first:
+      213: 1161875852002484507
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_127
+  - first:
+      213: 5099735876095848812
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_128
+  - first:
+      213: 8515792233116322342
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_129
+  - first:
+      213: 1817506082786498242
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_130
+  - first:
+      213: 6333655160720683861
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_131
+  - first:
+      213: -8042388261661400331
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_132
+  - first:
+      213: 6561282278982330911
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_133
+  - first:
+      213: -7171208210821331774
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_134
+  - first:
+      213: 4716979612662043054
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_135
+  - first:
+      213: 748885806805320821
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_136
+  - first:
+      213: 3163186420639753399
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_137
+  - first:
+      213: -2718555829275013736
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_138
+  - first:
+      213: -2618987194436633257
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_139
+  - first:
+      213: -284883099663818815
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_140
+  - first:
+      213: 8469992880555077356
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_141
+  - first:
+      213: 7833157097016255416
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_142
+  - first:
+      213: 7726219187134735506
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_143
+  - first:
+      213: 4543527249350900317
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_144
+  - first:
+      213: -6136130997514917389
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_145
+  - first:
+      213: 9073475633838089087
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_146
+  - first:
+      213: 3464386797022398948
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_147
+  - first:
+      213: -4760172424532763637
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_148
+  - first:
+      213: -6125970882723379116
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_149
+  - first:
+      213: -8683275183099719992
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_150
+  - first:
+      213: 1513308471377298488
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_151
+  - first:
+      213: -3494026358394666670
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_152
+  - first:
+      213: 2924273496021832587
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_153
+  - first:
+      213: -1367855260678223983
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_154
+  - first:
+      213: 8032517144546114246
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_155
+  - first:
+      213: -6905345481165749290
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_156
+  - first:
+      213: 7997141389086585344
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_157
+  - first:
+      213: 1711541208088802345
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_158
+  - first:
+      213: -2740503146986466328
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_159
+  - first:
+      213: 4859768169009920908
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_160
+  - first:
+      213: 1181844283605734488
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_161
+  - first:
+      213: 752753825995764667
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_162
+  - first:
+      213: 7722013310339616643
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_163
+  - first:
+      213: 3083720625298436754
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_164
+  - first:
+      213: 9199805682842788604
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_165
+  - first:
+      213: -1050115254340758617
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_166
+  - first:
+      213: 4663967609773847627
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_167
+  - first:
+      213: -1850534843592578217
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_168
+  - first:
+      213: 7760488718269730164
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_169
+  - first:
+      213: -7710087318764922666
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_170
+  - first:
+      213: -5991246623111569543
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_171
+  - first:
+      213: 4548560910608753503
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_172
+  - first:
+      213: -3903948037268574176
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_173
+  - first:
+      213: 4750773449255187157
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_174
+  - first:
+      213: 5906266189611150950
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_175
+  - first:
+      213: -8038608999412161086
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_176
+  - first:
+      213: 1069117917735783563
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_177
+  - first:
+      213: 7330594887752685226
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_178
+  - first:
+      213: 2511471846518659715
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_179
+  - first:
+      213: 7339784672296134679
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_180
+  - first:
+      213: 6905816623765669557
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_181
+  - first:
+      213: 2568319562611201270
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_182
+  - first:
+      213: 3356269825813297499
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_183
+  - first:
+      213: -3783322347327882199
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_184
+  - first:
+      213: 4432872070292349669
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_185
+  - first:
+      213: 8570995220784066457
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_186
+  - first:
+      213: 614801236503840818
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_187
+  - first:
+      213: -8826257835947855878
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_188
+  - first:
+      213: 450834564537128786
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_189
+  - first:
+      213: -8795328255398295272
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_190
+  - first:
+      213: -472514835423758010
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_191
+  - first:
+      213: 694634581081873918
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_192
+  - first:
+      213: -5602326032544554792
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_193
+  - first:
+      213: -8349520609097035868
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_194
+  - first:
+      213: 7821145110592900718
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_195
+  - first:
+      213: 7785490431357878390
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_196
+  - first:
+      213: 468227605604733317
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_197
+  - first:
+      213: 4392677007861003010
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_198
+  - first:
+      213: -5958507986600014926
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_199
+  - first:
+      213: -479867718188974768
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_200
+  - first:
+      213: 2523201109833146041
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_201
+  - first:
+      213: 2378427069544921847
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_202
+  - first:
+      213: 6350568458604693659
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_203
+  - first:
+      213: -8139201578770486903
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_204
+  - first:
+      213: 355537562124820686
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_205
+  - first:
+      213: -6506177111992636460
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_206
+  - first:
+      213: -289926031445982801
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_207
+  - first:
+      213: -8551211515295964579
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_208
+  - first:
+      213: -3438226361328320393
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_209
+  - first:
+      213: 8372486321995736928
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_210
+  - first:
+      213: -3583223399169209052
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_211
+  - first:
+      213: -4078595226495533374
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_212
+  - first:
+      213: 3228435188660013333
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_213
+  - first:
+      213: -7559610789843663600
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_214
+  - first:
+      213: -8470190325668229361
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_215
+  - first:
+      213: 6715510976713251784
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_216
+  - first:
+      213: 6699566615266217784
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_217
+  - first:
+      213: 3699996436387624315
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_218
+  - first:
+      213: 6710211833330577820
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_219
+  - first:
+      213: -957204877902304399
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_220
+  - first:
+      213: 8470411759143189559
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_221
+  - first:
+      213: -4393609074917994153
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_222
+  - first:
+      213: -1420049976707449998
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_223
+  - first:
+      213: -5851273904654407330
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_224
+  - first:
+      213: -3841710782264918043
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_225
+  - first:
+      213: -282863683250918335
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_226
+  - first:
+      213: 3440310855801086128
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_227
+  - first:
+      213: 7772990228186855956
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_228
+  - first:
+      213: 1368704185770765822
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_229
+  - first:
+      213: 4037584252384268971
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_230
+  - first:
+      213: 3442529768052242431
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_231
+  - first:
+      213: 2505191912980147089
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_232
+  - first:
+      213: 1200885705695274850
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_233
+  - first:
+      213: 3734983041403071748
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_234
+  - first:
+      213: -6424203392790601352
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_235
+  - first:
+      213: 2549162238842226987
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_236
+  - first:
+      213: 1099067043297534314
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_237
+  - first:
+      213: -1009672716857651646
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_238
+  - first:
+      213: 4889714731832316732
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_239
+  - first:
+      213: -8012949556691951066
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_240
+  - first:
+      213: 7375690771969950396
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_241
+  - first:
+      213: 5363024699517499453
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_242
+  - first:
+      213: -3167810180873690785
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_243
+  - first:
+      213: -1769974016566463045
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_244
+  - first:
+      213: 1881571964274521433
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_245
+  - first:
+      213: -3037093487893570775
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_246
+  - first:
+      213: -4058259756753908907
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_247
+  - first:
+      213: -2637147317381583201
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_248
+  - first:
+      213: -3106620145033537421
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_249
+  - first:
+      213: 2259821407010018296
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_250
+  - first:
+      213: 7006088514181974461
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_251
+  - first:
+      213: -5502581385259828093
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_252
+  - first:
+      213: -5632295428671719273
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_253
+  - first:
+      213: -2594677900009198657
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_254
+  - first:
+      213: 2765216908375971479
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_255
+  - first:
+      213: 7739859670279007885
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_256
+  - first:
+      213: -9155397957989075993
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_257
+  - first:
+      213: 7233163258754706138
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_258
+  - first:
+      213: 9187489082227321813
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_259
+  - first:
+      213: 1496435363993453815
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_260
+  - first:
+      213: -6516669942019882050
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_261
+  - first:
+      213: 874743179471789114
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_262
+  - first:
+      213: -8745395460326083143
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_263
+  - first:
+      213: -4055760483801355944
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_264
+  - first:
+      213: 5773332871940061959
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_265
+  - first:
+      213: 8606054867032562049
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_266
+  - first:
+      213: 3952188362661862342
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_267
+  - first:
+      213: 1440887260610575791
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_268
+  - first:
+      213: 8333421919823230960
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_269
+  - first:
+      213: 9078425350118790575
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_270
+  - first:
+      213: -745996321749639739
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_271
+  - first:
+      213: 8057825148071587463
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_272
+  - first:
+      213: 6694322203742405453
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_273
+  - first:
+      213: -466257128422407406
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_274
+  - first:
+      213: -7850977906665011548
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_275
+  - first:
+      213: 377953016457187237
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_276
+  - first:
+      213: -485100237720972877
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_277
+  - first:
+      213: 3594467305184840033
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_278
+  - first:
+      213: 3047105183170313469
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_279
+  - first:
+      213: -8880313179880454977
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_280
+  - first:
+      213: 8920062045276748354
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_281
+  - first:
+      213: 5780612415722723683
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_282
+  - first:
+      213: 2457003658852881270
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_283
+  - first:
+      213: -3986984944874241149
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_284
+  - first:
+      213: -327914867910484605
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_285
+  - first:
+      213: -9161131803561643900
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_286
+  - first:
+      213: 1400268869324356264
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_287
+  - first:
+      213: 4607270520025652883
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_288
+  - first:
+      213: 749859628053972953
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_289
+  - first:
+      213: 567718126284575894
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_290
+  - first:
+      213: -5856583835302149189
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_291
+  - first:
+      213: -4816631826674873736
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_292
+  - first:
+      213: 5922618081164078417
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_293
+  - first:
+      213: -6269538380552185716
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_294
+  - first:
+      213: 7601114147104419487
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_295
+  - first:
+      213: 1307528243010591693
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_296
+  - first:
+      213: 2150739809575750808
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_297
+  - first:
+      213: 4766537456152380642
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_298
+  - first:
+      213: -5283238950895355332
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_299
+  - first:
+      213: -3159189982504618325
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_300
+  - first:
+      213: -3415831522499290879
+    second: DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_301
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89736cada9c3da0800000000000000
+      internalID: -5963721542126298918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78174ff659588fd0800000000000000
+      internalID: -2339521776234063750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5176e90dbb5fe60800000000000000
+      internalID: 7995503218151331272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8503daf789027dc80800000000000000
+      internalID: -8298127949057675176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd55b4f7b619a9e0800000000000000
+      internalID: -1609730412467888696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4f1355c2745ec40800000000000000
+      internalID: 5540913172282733798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b22297d43eff670800000000000000
+      internalID: 8574822137420983140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ffaa8039acc6bb0800000000000000
+      internalID: -4941351958277849274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed90b5da15ddf4d0800000000000000
+      internalID: -3099086657330045472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a47e697c3e02ed0800000000000000
+      internalID: -2440700551665071461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5ed6f3ea9688c30800000000000000
+      internalID: 4361852436217718225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238918253a4cc120800000000000000
+      internalID: 2435403090667078444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5349350a97003e40800000000000000
+      internalID: 5634011491934487387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d07fbc183b0bc60800000000000000
+      internalID: 7831957122051411355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6b4c9440988f60800000000000000
+      internalID: 8036832159397014602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ede3e7c6037aa0800000000000000
+      internalID: -6164576009347799245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3828f8cbbae8440800000000000000
+      internalID: 4940074667621909439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e575b0b76ce62b450800000000000000
+      internalID: 6103062243787364190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49f7d2be3caa240800000000000000
+      internalID: 4803867367392122089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef265d503b61840800000000000000
+      internalID: 5194536057854688886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6880afffcc48560800000000000000
+      internalID: 7315197094540117740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f809ba710739f0800000000000000
+      internalID: -488920407944399225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebefc3f79fce6f60800000000000000
+      internalID: 8029583437185674212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce46c3a460747670800000000000000
+      internalID: 8535570771320655556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c70638d9f1461a0800000000000000
+      internalID: -6817289174557623291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9bacd5b781ca40800000000000000
+      internalID: 5386735844472889176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56689848a02d90a90800000000000000
+      internalID: -7347110374463142299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817411d226c8f1f0800000000000000
+      internalID: -1010840263505710718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb1f1762a4aeb20800000000000000
+      internalID: 3164423217162075212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9959c090ec9ad960800000000000000
+      internalID: 7627581407221078429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01bb8e1913c826e0800000000000000
+      internalID: -1862023933263630067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17a8912f4caa7b0800000000000000
+      internalID: -5212137074638294601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7a256f6e05681943a005855719885e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-1: -5963721542126298918
+      1-2: -2339521776234063750
+      1-3: 7995503218151331272
+      1-4: -8298127949057675176
+      2-1: -1609730412467888696
+      2-2: 5540913172282733798
+      2-3: 8574822137420983140
+      2-4: -4941351958277849274
+      3-1: -3099086657330045472
+      3-2: -2440700551665071461
+      3-3: 4361852436217718225
+      3-4: 2435403090667078444
+      4-1: 5634011491934487387
+      4-2: 7831957122051411355
+      4-3: 8036832159397014602
+      4-4: -6164576009347799245
+      5-1: 4940074667621909439
+      5-2: 6103062243787364190
+      5-3: 4803867367392122089
+      5-4: 5194536057854688886
+      6-1: 7315197094540117740
+      6-2: -488920407944399225
+      6-3: 8029583437185674212
+      6-4: 8535570771320655556
+      7-1: -6817289174557623291
+      7-2: 5386735844472889176
+      7-3: -7347110374463142299
+      7-4: -1010840263505710718
+      8-1: 3164423217162075212
+      8-2: 7627581407221078429
+      8-3: -1862023933263630067
+      8-4: -5212137074638294601
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_100: 1538622889680409272
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_101: -4439930184712604023
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_102: -5648243209442551202
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_103: 4186122061668634218
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_104: 1440356550449426859
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_105: -1812465752821640834
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_106: -3554607066696325940
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_107: -6002948977464504114
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_108: -7439747931430947838
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_109: -4717935805812998228
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_110: 4949032942875038276
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_111: 6692908415632714011
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_112: 2811008869198251159
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_113: -5513927201600844764
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_114: 8362871942588231939
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_115: -3417517007332990904
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_116: 4341432761156529009
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_117: 4461527007212699427
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_118: -7540123606199840444
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_119: 318686048635852467
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_120: -7244946799945696949
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_121: 3366458410596897159
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_122: -2335642956648613993
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_123: -2673315289429000168
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_124: -4545382727862493070
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_125: -2896431249294940669
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_126: 7578503686141532963
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_127: 1161875852002484507
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_128: 5099735876095848812
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_129: 8515792233116322342
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_130: 1817506082786498242
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_131: 6333655160720683861
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_132: -8042388261661400331
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_133: 6561282278982330911
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_134: -7171208210821331774
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_135: 4716979612662043054
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_136: 748885806805320821
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_137: 3163186420639753399
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_138: -2718555829275013736
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_139: -2618987194436633257
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_140: -284883099663818815
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_141: 8469992880555077356
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_142: 7833157097016255416
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_143: 7726219187134735506
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_144: 4543527249350900317
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_145: -6136130997514917389
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_146: 9073475633838089087
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_147: 3464386797022398948
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_148: -4760172424532763637
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_149: -6125970882723379116
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_150: -8683275183099719992
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_151: 1513308471377298488
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_152: -3494026358394666670
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_153: 2924273496021832587
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_154: -1367855260678223983
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_155: 8032517144546114246
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_156: -6905345481165749290
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_157: 7997141389086585344
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_158: 1711541208088802345
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_159: -2740503146986466328
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_160: 4859768169009920908
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_161: 1181844283605734488
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_162: 752753825995764667
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_163: 7722013310339616643
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_164: 3083720625298436754
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_165: 9199805682842788604
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_166: -1050115254340758617
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_167: 4663967609773847627
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_168: -1850534843592578217
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_169: 7760488718269730164
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_170: -7710087318764922666
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_171: -5991246623111569543
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_172: 4548560910608753503
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_173: -3903948037268574176
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_174: 4750773449255187157
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_175: 5906266189611150950
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_176: -8038608999412161086
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_177: 1069117917735783563
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_178: 7330594887752685226
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_179: 2511471846518659715
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_180: 7339784672296134679
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_181: 6905816623765669557
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_182: 2568319562611201270
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_183: 3356269825813297499
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_184: -3783322347327882199
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_185: 4432872070292349669
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_186: 8570995220784066457
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_187: 614801236503840818
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_188: -8826257835947855878
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_189: 450834564537128786
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_190: -8795328255398295272
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_191: -472514835423758010
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_192: 694634581081873918
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_193: -5602326032544554792
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_194: -8349520609097035868
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_195: 7821145110592900718
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_196: 7785490431357878390
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_197: 468227605604733317
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_198: 4392677007861003010
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_199: -5958507986600014926
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_200: -479867718188974768
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_201: 2523201109833146041
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_202: 2378427069544921847
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_203: 6350568458604693659
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_204: -8139201578770486903
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_205: 355537562124820686
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_206: -6506177111992636460
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_207: -289926031445982801
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_208: -8551211515295964579
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_209: -3438226361328320393
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_210: 8372486321995736928
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_211: -3583223399169209052
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_212: -4078595226495533374
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_213: 3228435188660013333
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_214: -7559610789843663600
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_215: -8470190325668229361
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_216: 6715510976713251784
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_217: 6699566615266217784
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_218: 3699996436387624315
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_219: 6710211833330577820
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_220: -957204877902304399
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_221: 8470411759143189559
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_222: -4393609074917994153
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_223: -1420049976707449998
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_224: -5851273904654407330
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_225: -3841710782264918043
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_226: -282863683250918335
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_227: 3440310855801086128
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_228: 7772990228186855956
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_229: 1368704185770765822
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_230: 4037584252384268971
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_231: 3442529768052242431
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_232: 2505191912980147089
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_233: 1200885705695274850
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_234: 3734983041403071748
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_235: -6424203392790601352
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_236: 2549162238842226987
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_237: 1099067043297534314
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_238: -1009672716857651646
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_239: 4889714731832316732
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_240: -8012949556691951066
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_241: 7375690771969950396
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_242: 5363024699517499453
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_243: -3167810180873690785
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_244: -1769974016566463045
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_245: 1881571964274521433
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_246: -3037093487893570775
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_247: -4058259756753908907
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_248: -2637147317381583201
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_249: -3106620145033537421
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_250: 2259821407010018296
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_251: 7006088514181974461
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_252: -5502581385259828093
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_253: -5632295428671719273
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_254: -2594677900009198657
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_255: 2765216908375971479
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_256: 7739859670279007885
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_257: -9155397957989075993
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_258: 7233163258754706138
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_259: 9187489082227321813
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_260: 1496435363993453815
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_261: -6516669942019882050
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_262: 874743179471789114
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_263: -8745395460326083143
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_264: -4055760483801355944
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_265: 5773332871940061959
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_266: 8606054867032562049
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_267: 3952188362661862342
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_268: 1440887260610575791
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_269: 8333421919823230960
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_270: 9078425350118790575
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_271: -745996321749639739
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_272: 8057825148071587463
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_273: 6694322203742405453
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_274: -466257128422407406
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_275: -7850977906665011548
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_276: 377953016457187237
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_277: -485100237720972877
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_278: 3594467305184840033
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_279: 3047105183170313469
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_280: -8880313179880454977
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_281: 8920062045276748354
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_282: 5780612415722723683
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_283: 2457003658852881270
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_284: -3986984944874241149
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_285: -327914867910484605
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_286: -9161131803561643900
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_287: 1400268869324356264
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_288: 4607270520025652883
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_289: 749859628053972953
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_290: 567718126284575894
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_291: -5856583835302149189
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_292: -4816631826674873736
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_293: 5922618081164078417
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_294: -6269538380552185716
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_295: 7601114147104419487
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_296: 1307528243010591693
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_297: 2150739809575750808
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_298: 4766537456152380642
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_299: -5283238950895355332
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_300: -3159189982504618325
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_301: -3415831522499290879
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_32: 7594823118548115064
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_33: 6234758515401106107
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_34: 2962104706262458958
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_35: -6197533248181668889
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_36: -2666673240554577584
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_37: -5461231646035072976
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_38: 2610324419809192857
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_39: 6757499157336566363
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_40: -8978167018362761126
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_41: 5546849390897736304
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_42: 6872025068160688478
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_43: 4971713999671045472
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_44: 915150059814960571
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_45: 186866580395860062
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_46: 1706967549723855730
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_47: 4511321386893578983
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_48: 2723158985009938898
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_49: -1196225942201947574
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_50: -7912750804130859247
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_51: -497719227422910716
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_52: -4161544004902837319
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_53: 8406063924267536613
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_54: -3631307782738721738
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_55: 8681921727692556637
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_56: 5881838385358740398
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_57: -3248132054888251616
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_58: 7748979341161077569
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_59: -3876484640967639904
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_60: 311604220341317836
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_61: -3592059041112643569
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_62: 1769129521908574187
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_63: -3135330136425802455
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_64: -9115479235359119801
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_65: 7667222892550322610
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_66: 6742951522070915222
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_67: 8210803152393424705
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_68: -5785426162053611360
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_69: 4807965738920449252
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_70: -9176279096872953974
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_71: -3512055926244817225
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_72: 5129940582673748661
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_73: 901134030211484077
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_74: -2380993598546994490
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_75: -989049042391583665
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_76: 7906286663856690041
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_77: -6581715737265646611
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_78: 3425250986326461784
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_79: -8410957267299678757
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_80: 7457565150392746418
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_81: 4951201224202204333
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_82: 5491837496344839450
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_83: -3331987948098483416
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_84: 5720815695582290219
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_85: -2410976566870760311
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_86: 7819917950265671375
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_87: -8343557633778575495
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_88: -4347677702842649707
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_89: -4794064423690632585
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_90: -852619223669297206
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_91: -2866409187189471200
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_92: -1500743088554872613
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_93: 1190736055059572743
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_94: 360848353860099850
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_95: -8433989098007823218
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_96: -6270906910075056616
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_97: 774085749449240515
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_98: -1618817485708262534
+      DS _ DSi - Space Bust-A-Move - Miscellaneous - Bubbles_99: -4604081852103469356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6171 @@
+fileFormatVersion: 2
+guid: 434f023d782802c4da8e39bdadd9b80b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7476789903120854863
+    second: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+      - Deep Forest (Battle)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b01144623b1d3890800000000000000
+      internalID: -7476789903120854863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a520b2d6cadcc14eaed5ee8334be8d9
+      internalID: 416309469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed30a28bdfb293469f99d2902b86489
+      internalID: 1115982547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e2767f5a65e641981c8fbc69148a3
+      internalID: 127688067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afba3be39e7fc64cad6a29ba7d9ed1d
+      internalID: -1728034834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a0fc3f2f05834fbcfa0ea22ba7687
+      internalID: 1792395826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad594cd75ea22548b09aee056bbe034
+      internalID: -1304656211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e81f15a9ef914ca46740c3a5fb981
+      internalID: 2009132639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39041ab6accba6408b1b50727147ca7
+      internalID: 40178632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346d74aa693ea0458f925417bb75eb4
+      internalID: -717452131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19829ca9b26880748aaab371c9e825d3
+      internalID: -2099069374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d3d5bc7f039e4480e72db478d8483
+      internalID: 1058261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb7978cfc204c4295fd0d5de2ddc42
+      internalID: 1152333890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d739e14f13fe4aa6cadc9443f3a86
+      internalID: 1641040523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9afbf615da734d911257134d4e636
+      internalID: 1241441472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41af2de5808c0e43b47f2484110c0bf
+      internalID: -61797590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d30f252f8ac14eb093ea34e980614
+      internalID: 294547368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d32cf3f000dcd45a2df1daca6d2b70
+      internalID: -2117122158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353074f47fc5248439de8c6d9a4f3e47
+      internalID: -1415790946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d136098909a36141aa870f33280962b
+      internalID: 830410379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3e68b67642534480aa38531316e0b
+      internalID: 1684481587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459820a768c59124684f09daab410271
+      internalID: 712041750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6f8039e364c04db2fd975e69d10f8
+      internalID: 1192913089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2476fd2150d87b4e81c2b85755ce95c
+      internalID: -305023511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1cbd10c0b554841a23969a20f9b3fb
+      internalID: -552815530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e245211c8d42344b4dea4f7cbc52f8
+      internalID: 562352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4591c390aa204d8244833817d1893
+      internalID: -174340198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab280525966eb8a4d98e0ceba5e658a4
+      internalID: 709398784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b361686b9b115c4084c527451720324
+      internalID: 1016815736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddcc27f8f582f34aaf3bb22040b3654
+      internalID: -1473595846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d318cd3d46404ab5f4049b1e5d20b
+      internalID: 1414461346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe41b0356b1834e9c4877a06b78b57
+      internalID: 108928644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62223d7acec2d468d5bb39db98a9c6
+      internalID: 237748902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122944a39639feb48a9c40833e0eb932
+      internalID: 1784402895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f5048595d27649a2b42be8604fa62
+      internalID: 1722419089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb887f5f114b4947a9234e2f8c83ac8
+      internalID: 442268176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab36c222843c314da377849057e5d47
+      internalID: -1032118149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f6033efc450d4ca0e54bd1a9a9729
+      internalID: 639228932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f602be4b35b6a4fb25d079a0fbeb51
+      internalID: 1686367287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe3e5de2b54e845934ee60f7686734
+      internalID: -589390866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c30a678842994784ad69908ae17a8
+      internalID: -1710812416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b9c10e56212e4a86f45954370e3ff
+      internalID: -1740061611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6d46eea22bfa45a2e9f0f3119b1ce
+      internalID: -1152659505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c96751f34ba4a47bac3a05ff911bbb
+      internalID: -1810547052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334244f17f8bc574da3e86646ccaf87e
+      internalID: -1672483281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80d057add5f004a9d001df7dccc999
+      internalID: 1776279844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4024fe68822e3d42b88210613c4bea8
+      internalID: -259771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74ce91712aee714c9bc6b8d2cf1749a
+      internalID: -6729063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81813bbf676cd894bb19cce1d353f8be
+      internalID: -1189793708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e62044a8b1b324fabd93289c02ef0d
+      internalID: 500194316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec993d3c57c504db8ec9753b9d5906
+      internalID: -529552750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7b3713be4e134091c6b7f7c819208
+      internalID: -1410281983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97539cd14ebf2342b49a45a29bd5c69
+      internalID: 2069888391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f68b703a7419af4fa557151735d0cf9
+      internalID: -1181161577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa1dafb061560c438d1ccc302c783cf
+      internalID: 23810326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5d6e8545c6c8b4ea9d6e98300a143f
+      internalID: -219142458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55ebf373718be43ac53dfbdbb35fab
+      internalID: -1894660684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c0b2461d8d664e8153dcd5bf1dfff
+      internalID: -188336566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8906bba578e9047a7fee543e41e6ce
+      internalID: 1986796006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba00931aa768a146948835361c5a98a
+      internalID: -229510065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a8eb77f642c74e8b21c49673f8f71
+      internalID: -1233598978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b75a0161fef844a300a8450d8e0ca
+      internalID: 932944871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a302451abbf2d3418e8155295240acc
+      internalID: 1610813729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517b190e9ccaa24498f42fecadfb037
+      internalID: 2060208161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e76c685240a4c43a6a98b253e44e07
+      internalID: -305243424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c8b209f5329f4483d38740386632b
+      internalID: -542217480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ac53aca54377428fef480f4ae694f
+      internalID: 1832079476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb2598b67607d648b107705a0f10a42
+      internalID: 1030613064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2450a81e317adb4f9e40a04bad7b58e
+      internalID: -1540909265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d3768741dacc4c9875752dada35f7
+      internalID: 726369123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b574340b48e97d46ba95b8bd7842249
+      internalID: -1586701373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485d9fc43cd38249ab405a32527725d
+      internalID: -1457456050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298fbbff2e0e0a45aa07ae12a93ab97
+      internalID: -34980162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89f159c68ebdc458e0c50c5a9fcf19
+      internalID: -1229725654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86542081db08ef4479c89ba894572221
+      internalID: -405146009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61186185536f4804cb4355f23ebcc5da
+      internalID: 1222066068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2510378c020445af3b47247aa3e8a
+      internalID: -55585632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4aff0164acd0479a0b8d38f785d09
+      internalID: 755600306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ddee47e4e3fe746a70d61f4024991e
+      internalID: 1719800724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2fc581c3295a4a854e9424142b988
+      internalID: 2093853816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905e54c065d1964dbf76fe6ac073c77
+      internalID: -67235968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6471453c5ea1fd48a1d105e26fbae92
+      internalID: 1422216202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96967be69c1693245995ec8ebcad199f
+      internalID: 2014349550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422104178133a44db8e5e0a3cf54c82
+      internalID: 149456389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060898a2f3e1bb14daf9b882848a1478
+      internalID: 1368104750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec53a9b667ff641a189dd959ce0332
+      internalID: 1091456321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950189801e04a64a866c41b5718bd04
+      internalID: -212130062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_87
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197ac51498c6cd46b831ec3bee80175
+      internalID: -84301162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5cb5945078dbe4b961318d62dc55ef
+      internalID: -1673896566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05df182201c364468e8455a568951db
+      internalID: -141068282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f300e669402d440862254c44e5f08e
+      internalID: -2077910074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683177924e20f445a9dc8c6b851dc78
+      internalID: -1643006902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec8f419959b514799c53dc718440e9
+      internalID: 653786454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ba609d16b2ff44862d39f66e0f0e4
+      internalID: -1752110673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49250b549eb851144a5a6cef52c3a807
+      internalID: -662464404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cb1aa0ad10814ca4453d02a053bba
+      internalID: 1360313730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb320e4d803084fb931767b5cf906d
+      internalID: -1489988078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857928bd51e9dd409f17ecfc8b7b211
+      internalID: 180582418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fea5bc3e9d92142b17401348bfcdd7
+      internalID: -1153598512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92dde310ef2554399dc751d79e70d1
+      internalID: -61895623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bfcfb27c10a1e4fafab6c1cf5d4e27
+      internalID: 415658772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23648b028cb6c24bbddf8d0813a9cd5
+      internalID: 712926443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d34cf6e39983442b880ec506cb2d96
+      internalID: 1952735748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da094064e6dec48bc4f5de5b36f8f6
+      internalID: 243858400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452251d87c478c4f9654fe002c9995d
+      internalID: 1628324540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a5d7144e2de3f4793bc1fcdd704506
+      internalID: 1004355161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64213d7bd389a4aa5527a7c37fde8e
+      internalID: -605790757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3cdae02fb1d74ab67d9be073577ba
+      internalID: 552096576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce16c3a9c764de4ea665a99ec393225
+      internalID: -49213004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d569ef6e35d948bce7b14f02b1817
+      internalID: 748241563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff89322aefd2e468049c02f2fa95bd
+      internalID: 1646587625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc1584e02bdcc4298e660fdf919974
+      internalID: -885489099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab00c8b42c74b4499e463a5f6d9b156
+      internalID: 50179195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de862854649a274b886e65e67d3fba9
+      internalID: 1433153113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e804b514829642996191d86a7cbf0
+      internalID: 43623490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a103fd9da89a14398fef2a9834bd22
+      internalID: -923813546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae522f4bff78534883abbcdd503cfdf
+      internalID: -731567730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f785e92f2d4a3d54bad9cb63d4fc1cd5
+      internalID: 329712259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b017711e5eff6d245a1f40eaa2a39e02
+      internalID: -717703631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fe618b1141e441bbb5c36f390e684
+      internalID: 415441609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb61cc4d76139447b94c6ea7642711d
+      internalID: -1771683287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85223834ba39a4478c8368bf47a45b8
+      internalID: -180070957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ba7063502d324b9ce544ede2f8c9a
+      internalID: -764316930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_123
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ed079d4f309e4786e7173e3d4f45c
+      internalID: -1787757868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9f4cd25369b64aa018d17b915748b
+      internalID: 2059065622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7771b2ad967d174bad9ac095a4f12d6
+      internalID: 1228294797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4f188dfe2e614a888205322e0341d
+      internalID: -1072656036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd9b14f2d9ba840b3871b6ce944657
+      internalID: -394448802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29cf61957f161b46959e9b19502dcc8
+      internalID: 1487746865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654acbf08cb0390478edf6392e2c04fb
+      internalID: -1261780953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5951c70c4cce244be974acdcda21b5
+      internalID: 1847433213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae214c88bece09a46ba6258925fca7bd
+      internalID: 1918199221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a51c612a1a0c449896cac1371f5b9b
+      internalID: 1581147850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1930d6f724e948b6f0897267ede82
+      internalID: 797709521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35910d129b68747a0e9ed3edaca962
+      internalID: 612958210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1984e5b63772664a8b63816f1921eda
+      internalID: 1202290032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c906064ad2d625e48bf0694b2e460d6f
+      internalID: -574376173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c8b756e285be4b92073b144b35ad5
+      internalID: 307987307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eee1736eddb2f41a13ef3fcbd99d1e
+      internalID: -771973517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c96842ef35777e4b9e449cb9d6d64b3
+      internalID: -575613193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a9535df144e948b5d2c1dac9e5000
+      internalID: 1649618787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1703c787b6585498a29f3cc048b409
+      internalID: -23516516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a27ef971912447a5768ab0be110de
+      internalID: -1325547085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6488efc7fa264fba3b04da11c31ab
+      internalID: -14473917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4250d6f5eafd594a8b9f8757724f1e0
+      internalID: -271503660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a0d7064657be48a1cc7ca16336129
+      internalID: -377729013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f579ca295dc75b46b8dc0e90c71a8ff
+      internalID: -1261460762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b0d994a6357c4ea32d4e033612c6b
+      internalID: -1870874648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ae6b47696be441a3b3105a9661343
+      internalID: -1184669611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bfb08c3f5e3f4a8c816ddcda0cdad
+      internalID: 663325517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f8230542c9ef49815de6b4b8b669c
+      internalID: 608569358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8129a262eb1694aa7262fd7509bd97
+      internalID: 2117687322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd765881577e69468c50cdaefb1102d
+      internalID: -945912664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2383c023f050cd047bfdf4acc75d654d
+      internalID: 1811099394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb08a622844a71b408f1e2273ea3a2e6
+      internalID: 742152272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7926e97d1b3a374eae1adb9ca1903c1
+      internalID: 1680707368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d2950f522bac74e8d150ff931bdd2b
+      internalID: 1828263626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc369695d3f80438276e9514e7d3dc
+      internalID: 240859735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068d275806e4504ab8f46c024dfcaa5
+      internalID: -1679484859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89995782b97f7a44937d311f3704682
+      internalID: -2016536534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffcd4d086792140b6724318630f000
+      internalID: -1202331858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753de86f1e587f478d2888c6696f04e
+      internalID: 671787286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706bc66e45bd9784aafb6480a9a79dce
+      internalID: 69921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea7d28f240da04c8abb37edffcadc1
+      internalID: -546219512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a798296f49c7647a5a9092e307190f
+      internalID: -1169187055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05afa6a13e50742a02cbdd5ed21988
+      internalID: 101169220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3848a4e389a384788522bb7ed21a0b
+      internalID: 1420647938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af9359e45c8634e845aa3390f44aee
+      internalID: -415984919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea00c6a595d4c4a912362d86118d32
+      internalID: 1175009422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a58df4732facb41942287fc4758e1b
+      internalID: 953804834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c9acdd7159f440830cd53274e6b85
+      internalID: 722474567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72e625a5bce314c9cb51b6044ed160
+      internalID: 1828064912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6b293e418a9c49bad70ae9c4283ce
+      internalID: 827604242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ee0fe54590274faf81a2c8bff2c81
+      internalID: 977838708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe50317cd2236499e46d0b0a693c5a
+      internalID: -179213348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243b1f790fd9ab341a254b13ffc27591
+      internalID: -591750824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c4c8822bae4eb4a9d696ac5746bfc5
+      internalID: -1445495457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc4fbf4539a4a4dbcb825fc5d6f346
+      internalID: -636242319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14288b84bd6987c4ea78e4bc2e375e10
+      internalID: -2049054190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_179
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a595e3f7735da745a29253842f2fb12
+      internalID: 119126875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569b57dee0caa647aa55357098a82a1
+      internalID: -1611020087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_181
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32266099fac101d438d73b65432336a6
+      internalID: 325814395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2699536395047ef4c887a70eca1be3cf
+      internalID: 1121351139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_183
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d15ad91bcadd4a8a569ecb69dffd2
+      internalID: -1866614605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e9acf28fa036478df81947a015e68
+      internalID: 109363380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_185
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2cd53e608c9048a8f8d894aa6fb68
+      internalID: -1387788736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51bbcd41e2a04148a649681a7969e52
+      internalID: -584061334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ea0158d38c4645aea10e1bbb0d71e
+      internalID: -696221841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec186d70782de44b0b19e849e29822
+      internalID: 1181720796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d8c273ca6c4a4cb3b474703d0f555
+      internalID: -780751951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086dcbfc448a2747aa9c9cfbe585c67
+      internalID: 1343669750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_191
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c43d421ced7e9a44a9b1bfba7a4e1d5
+      internalID: 1238147737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ceb21c0beb2544a642d1e26f4fe05
+      internalID: 185995611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0077734f37ea94e836825b36f8180c
+      internalID: 1463801405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc7a9c6696cae48a2eca39c7c4cfa7
+      internalID: 1090289907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_195
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ade0e6b58186d4fb655327a38744c7
+      internalID: 1158086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa425f9d18b9a4590827870baf24de
+      internalID: 649090245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_197
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24165d2394decc48bb06bb0e575b7df
+      internalID: 550228860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_198
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c789b481ff6b941b06142fa36f27e9
+      internalID: -1387521539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728b8b5ce26f25419f3d837b2125632
+      internalID: 1702245134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad2211df1b04c43830ca618a831471
+      internalID: -1144465363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_201
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a9704e98eda04292642194183644a
+      internalID: -364253865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a954d6594278f146ba3c5d070cc8d0b
+      internalID: 1584779605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017be38880059642b669283787e9e23
+      internalID: 711648976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6bfc2c3c197f4391936c610cb3219
+      internalID: 366542857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac482a82dafd2442af08df79dbff865
+      internalID: 1558162619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d00f71ad8d6544bd6ee8bf3f9d881
+      internalID: 614565899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913400431f8f5db4480e8453b16bb8f8
+      internalID: -1405523781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3001f2c536c1fa49b199dad32b7ca53
+      internalID: -1636332644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0792aa6645274874180edd7e5c3d4d82
+      internalID: -378220972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e77461cc6f4d48bf2193434eef4ba
+      internalID: 539873286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374dd36a55638b745bd9c39183d42618
+      internalID: 1013717083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af94350e5598a4aa241bbce6d4759f
+      internalID: 569169060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a3f6a4c4433c42921cae0e36933a3
+      internalID: -1573644265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990c491aeceddf4bb4d3c51b215f87a
+      internalID: 1631617250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1060ce4bf2f2b4eb2ae2b821269567
+      internalID: 585820192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f922d284e493c44b1211b3c6163fbb
+      internalID: -1079819760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24349affb0a01409e80df63418cc28
+      internalID: 217146257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f37f8bf3f44b248ab31e5730c9fc1a
+      internalID: -1021708153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79224ce93a9c4e24181fa069ce5dd493
+      internalID: 917770553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3227f2f9cc0cb64290c06ac25ee8670
+      internalID: 512994267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6fdd1277a96ea4b81ce5ba59a114d4
+      internalID: 389120004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc40d9c0b9e74419ffb0b9320ed255
+      internalID: 209288514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_223
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df130189fcbc94da63f3d3b99a07df
+      internalID: -1993595824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853cde7aeaa56f14db82e5dd28cf8794
+      internalID: -103177979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65807470603d5e45b6939d24ca146e4
+      internalID: -1205705414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02142ee6c1dd58640bd23c91c1abded4
+      internalID: 1351795216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a6e5cef856a841be3efc352e3063f
+      internalID: -1935302123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a370b1b16b8b47b46521e8576fa90
+      internalID: -1018599857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fdfbfdd70e675439aeef281c73398c
+      internalID: 1360641850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b1a4d7ae78f58469a1d28630ba6b1c
+      internalID: 386772518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf6b2ef4bcab6428c339b7865083bf
+      internalID: -336617046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05c2c17e664bb498fa1511eb674907
+      internalID: -2131112794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b680381f4bc6348b13bce9aaa6549c
+      internalID: 210567944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1cd6fc6b789f478c37c206004faa5
+      internalID: -1253827193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e000d886e193a34a819e0d0d3d312c0
+      internalID: -1590183290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb23fa69bc1224796c684006279e40
+      internalID: 603042644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5acbbe77b418b419dd4c91fa534faa
+      internalID: 135241294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167af04db0eecc489637e9730bdf833
+      internalID: 1422586613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_239
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b7efa98a8a9654586875e4427ade2c
+      internalID: 1990226731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27bb8f272be604e893d2fc1f1e411c
+      internalID: -241840690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_241
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99864bbf0016260458aa0679f608122f
+      internalID: 1533480411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5811187bf59c405439198733a30f7496
+      internalID: 1200977323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_243
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f1b950aeb0f24dbe965de2392aced
+      internalID: 371596241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d2ef844c184344ae9ae6b883e241a
+      internalID: -1087913656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_245
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac1a75c02a54042ad6379320be696d
+      internalID: 968808235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea675a66b56105e45ae411089e8011de
+      internalID: 1239122805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_247
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ccc263c9dfa94e837265bc5263e62
+      internalID: 1188751297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd726fe2dd7f04f884db337cdffb65
+      internalID: 290301706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_249
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5125eee6f3092469c400546ae5a1d2
+      internalID: 1546955091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_250
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b8fccdb2861a4eb41e97986bb961e
+      internalID: 1890500980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds
+        - Deep Forest (Battle)_251
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447a81cbd2a96d4e8ecaafa1d3261d7
+      internalID: -777518463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a4871ea0a83eec42b656ec682905715
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_0: -7476789903120854863
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_1: 416309469
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_10: -2099069374
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_100: 415658772
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_101: 712926443
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_102: 1952735748
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_103: 243858400
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_104: 1628324540
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_105: 1004355161
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_106: -605790757
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_107: 552096576
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_108: -49213004
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_109: 748241563
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_11: 1058261723
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_110: 1646587625
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_111: -885489099
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_112: 50179195
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_113: 1433153113
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_114: 43623490
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_115: -923813546
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_116: -731567730
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_117: 329712259
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_118: -717703631
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_119: 415441609
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_12: 1152333890
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_120: -1771683287
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_121: -180070957
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_122: -764316930
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_123: -1787757868
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_124: 2059065622
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_125: 1228294797
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_126: -1072656036
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_127: -394448802
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_128: 1487746865
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_129: -1261780953
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_13: 1641040523
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_130: 1847433213
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_131: 1918199221
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_132: 1581147850
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_133: 797709521
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_134: 612958210
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_135: 1202290032
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_136: -574376173
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_137: 307987307
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_138: -771973517
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_139: -575613193
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_14: 1241441472
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_140: 1649618787
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_141: -23516516
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_142: -1325547085
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_143: -14473917
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_144: -271503660
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_145: -377729013
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_146: -1261460762
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_147: -1870874648
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_148: -1184669611
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_149: 663325517
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_15: -61797590
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_150: 608569358
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_151: 2117687322
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_152: -945912664
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_153: 1811099394
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_154: 742152272
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_155: 1680707368
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_156: 1828263626
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_157: 240859735
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_158: -1679484859
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_159: -2016536534
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_16: 294547368
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_160: -1202331858
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_161: 671787286
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_162: 69921615
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_163: -546219512
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_164: -1169187055
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_165: 101169220
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_166: 1420647938
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_167: -415984919
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_168: 1175009422
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_169: 953804834
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_17: -2117122158
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_170: 722474567
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_171: 1828064912
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_172: 827604242
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_173: 977838708
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_174: -179213348
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_175: -591750824
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_176: -1445495457
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_177: -636242319
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_178: -2049054190
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_179: 119126875
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_18: -1415790946
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_180: -1611020087
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_181: 325814395
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_182: 1121351139
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_183: -1866614605
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_184: 109363380
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_185: -1387788736
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_186: -584061334
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_187: -696221841
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_188: 1181720796
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_189: -780751951
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_19: 830410379
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_190: 1343669750
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_191: 1238147737
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_192: 185995611
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_193: 1463801405
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_194: 1090289907
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_195: 1158086
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_196: 649090245
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_197: 550228860
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_198: -1387521539
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_199: 1702245134
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_2: 1115982547
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_20: 1684481587
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_200: -1144465363
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_201: -364253865
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_202: 1584779605
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_203: 711648976
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_204: 366542857
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_205: 1558162619
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_206: 614565899
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_207: -1405523781
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_208: -1636332644
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_209: -378220972
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_21: 712041750
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_210: 539873286
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_211: 1013717083
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_212: 569169060
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_213: -1573644265
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_214: 1631617250
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_215: 585820192
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_216: -1079819760
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_217: 217146257
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_218: -1021708153
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_219: 917770553
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_22: 1192913089
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_220: 512994267
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_221: 389120004
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_222: 209288514
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_223: -1993595824
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_224: -103177979
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_225: -1205705414
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_226: 1351795216
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_227: -1935302123
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_228: -1018599857
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_229: 1360641850
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_23: -305023511
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_230: 386772518
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_231: -336617046
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_232: -2131112794
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_233: 210567944
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_234: -1253827193
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_235: -1590183290
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_236: 603042644
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_237: 135241294
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_238: 1422586613
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_239: 1990226731
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_24: -552815530
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_240: -241840690
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_241: 1533480411
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_242: 1200977323
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_243: 371596241
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_244: -1087913656
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_245: 968808235
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_246: 1239122805
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_247: 1188751297
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_248: 290301706
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_249: 1546955091
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_25: 562352810
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_250: 1890500980
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_251: -777518463
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_26: -174340198
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_27: 709398784
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_28: 1016815736
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_29: -1473595846
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_3: 127688067
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_30: 1414461346
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_31: 108928644
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_32: 237748902
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_33: 1784402895
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_34: 1722419089
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_35: 442268176
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_36: -1032118149
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_37: 639228932
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_38: 1686367287
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_39: -589390866
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_4: -1728034834
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_40: -1710812416
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_41: -1740061611
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_42: -1152659505
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_43: -1810547052
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_44: -1672483281
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_45: 1776279844
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_46: -259771825
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_47: -6729063
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_48: -1189793708
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_49: 500194316
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_5: 1792395826
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_50: -529552750
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_51: -1410281983
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_52: 2069888391
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_53: -1181161577
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_54: 23810326
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_55: -219142458
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_56: -1894660684
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_57: -188336566
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_58: 1986796006
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_59: -229510065
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_6: -1304656211
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_60: -1233598978
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_61: 932944871
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_62: 1610813729
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_63: 2060208161
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_64: -305243424
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_65: -542217480
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_66: 1832079476
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_67: 1030613064
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_68: -1540909265
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_69: 726369123
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_7: 2009132639
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_70: -1586701373
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_71: -1457456050
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_72: -34980162
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_73: -1229725654
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_74: -405146009
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_75: 1222066068
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_76: -55585632
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_77: 755600306
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_78: 1719800724
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_79: 2093853816
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_8: 40178632
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_80: -67235968
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_81: 1422216202
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_82: 2014349550
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_83: 149456389
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_84: 1368104750
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_85: 1091456321
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_86: -212130062
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_87: -84301162
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_88: -1673896566
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_89: -141068282
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_9: -717452131
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_90: -2077910074
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_91: -1643006902
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_92: 653786454
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_93: -1752110673
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_94: -662464404
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_95: 1360313730
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_96: -1489988078
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_97: 180582418
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_98: -1153598512
+      PlayStation - Tales of Eternia _ Tales of Destiny II - Battle Backgrounds - Deep Forest (Battle)_99: -61895623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

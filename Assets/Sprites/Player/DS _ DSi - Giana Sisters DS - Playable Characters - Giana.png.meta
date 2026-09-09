@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: 61d655ef3dbf745448d4c93cf4b9593d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2268972346068278886
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_0
+  - first:
+      213: 2991183636761820545
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_1
+  - first:
+      213: -4891140126860558717
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_2
+  - first:
+      213: -6542476628935409117
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_3
+  - first:
+      213: 6565253349126292158
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_4
+  - first:
+      213: -7644939013961658880
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_5
+  - first:
+      213: -2304566930164309574
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_6
+  - first:
+      213: 4898533654492586558
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_7
+  - first:
+      213: -547166871686506540
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_8
+  - first:
+      213: -2691605045299926583
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_9
+  - first:
+      213: -726197732979261019
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_10
+  - first:
+      213: -3337272060792753584
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_11
+  - first:
+      213: -4156999833239469070
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_12
+  - first:
+      213: -5873217626735138074
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_13
+  - first:
+      213: 6471340420871944638
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_14
+  - first:
+      213: 3195534540562528023
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_15
+  - first:
+      213: -6499901159823886530
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_16
+  - first:
+      213: 3886476272210326172
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_17
+  - first:
+      213: -1368909556054222424
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_18
+  - first:
+      213: 6646622135504342839
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_19
+  - first:
+      213: 1287119305025745550
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_20
+  - first:
+      213: -7057629918964642658
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_21
+  - first:
+      213: -5716031033399505997
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_22
+  - first:
+      213: -8834931700353013494
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_23
+  - first:
+      213: 4231434045727853717
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_24
+  - first:
+      213: 3899136561491483618
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_25
+  - first:
+      213: 3341759302645218285
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_26
+  - first:
+      213: -8602808920041359165
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_27
+  - first:
+      213: 2636839293156057265
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_28
+  - first:
+      213: -1551401511551357261
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_29
+  - first:
+      213: 9100957622801318932
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_30
+  - first:
+      213: 1003377619201034643
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_31
+  - first:
+      213: 7456210191594917984
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_32
+  - first:
+      213: -3947891497037817884
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_33
+  - first:
+      213: 4716225132452250312
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_34
+  - first:
+      213: 1783629642846557082
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_35
+  - first:
+      213: -7218861127779103404
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_36
+  - first:
+      213: 323513479760318893
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_37
+  - first:
+      213: -6062699564901798710
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_38
+  - first:
+      213: 5572418665654004674
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_39
+  - first:
+      213: 7144177891427363222
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_40
+  - first:
+      213: -5450780792773971048
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_41
+  - first:
+      213: 2325940859209257248
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_42
+  - first:
+      213: -7196420767325148109
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_43
+  - first:
+      213: 1334870216994195597
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_44
+  - first:
+      213: 8951639097780916531
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_45
+  - first:
+      213: -9033661543951251154
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_46
+  - first:
+      213: -3531212193247550084
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_47
+  - first:
+      213: -9193851950497272848
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_48
+  - first:
+      213: -6373113816528698439
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_49
+  - first:
+      213: -2377250739809587231
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_50
+  - first:
+      213: 2820399053995978149
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_51
+  - first:
+      213: -787310352059040969
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_52
+  - first:
+      213: -7442451203514696456
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_53
+  - first:
+      213: 754000691229691143
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_54
+  - first:
+      213: -4865697107029472128
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_55
+  - first:
+      213: -5668926927826724879
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_56
+  - first:
+      213: 8536240130473437983
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_57
+  - first:
+      213: 3239433583356843478
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_58
+  - first:
+      213: -855641379330791442
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_59
+  - first:
+      213: 3375383135420604501
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_60
+  - first:
+      213: 7218742196965952577
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_61
+  - first:
+      213: 2867694591520725257
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_62
+  - first:
+      213: -1536799748286315593
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_63
+  - first:
+      213: -7336373792021587333
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_64
+  - first:
+      213: -5474451299297128399
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_65
+  - first:
+      213: -2658977158150101941
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_66
+  - first:
+      213: 5841348154138507643
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_67
+  - first:
+      213: 4665500333177516079
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_68
+  - first:
+      213: -2292049233600569969
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_69
+  - first:
+      213: 1326770821293174449
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_70
+  - first:
+      213: 6262269467063791866
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_71
+  - first:
+      213: -59896514058006714
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_72
+  - first:
+      213: -6821346946541672013
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_73
+  - first:
+      213: 448294896123441523
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_74
+  - first:
+      213: -4713646296790040052
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_75
+  - first:
+      213: -2438327378518951520
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_76
+  - first:
+      213: -5221064882839480313
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_77
+  - first:
+      213: -6983421006591632619
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_78
+  - first:
+      213: 5642790135781669724
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_79
+  - first:
+      213: -5142220657597482928
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_80
+  - first:
+      213: -7696320504504438023
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_81
+  - first:
+      213: -1926671390392231074
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_82
+  - first:
+      213: 695393154708317284
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_83
+  - first:
+      213: 3650352551273702294
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_84
+  - first:
+      213: 116871104282083644
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_85
+  - first:
+      213: -4441561478102034355
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_86
+  - first:
+      213: -5077309023359401057
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_87
+  - first:
+      213: 1049181128516494970
+    second: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 272
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e9594c3520d7f10800000000000000
+      internalID: 2268972346068278886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d362f6ba1d28920800000000000000
+      internalID: 2991183636761820545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e31df08fd2f1cb0800000000000000
+      internalID: -4891140126860558717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32282056b247435a0800000000000000
+      internalID: -6542476628935409117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2cd1703277c1b50800000000000000
+      internalID: 6565253349126292158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e4a4fa878b7e590800000000000000
+      internalID: -7644939013961658880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a17e46988400e0800000000000000
+      internalID: -2304566930164309574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a35cb7661bf340800000000000000
+      internalID: 4898533654492586558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7934411a21868f0800000000000000
+      internalID: -547166871686506540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9af37d87f75aad0800000000000000
+      internalID: -2691605045299926583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1c31962070ce5f0800000000000000
+      internalID: -726197732979261019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052bc990eb0afa1d0800000000000000
+      internalID: -3337272060792753584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f347682dae5f46c0800000000000000
+      internalID: -4156999833239469070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 272
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa3e5afa32e7ea0800000000000000
+      internalID: -5873217626735138074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 272
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f2be73d1dec950800000000000000
+      internalID: 6471340420871944638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 272
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71778b5ebb1d85c20800000000000000
+      internalID: 3195534540562528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 247
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373c854556bbc5a0800000000000000
+      internalID: -6499901159823886530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 247
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b41104998fe530800000000000000
+      internalID: 3886476272210326172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 247
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a910c5f208a00de0800000000000000
+      internalID: -1368909556054222424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 247
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0cfeed9b8d3c50800000000000000
+      internalID: 6646622135504342839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 247
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827b9f3034ccd110800000000000000
+      internalID: 1287119305025745550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c81fb4bf24e0e90800000000000000
+      internalID: -7057629918964642658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 247
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb0d195f049ca0b0800000000000000
+      internalID: -5716031033399505997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 247
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ee919d64046580800000000000000
+      internalID: -8834931700353013494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4a1278d219ba30800000000000000
+      internalID: 4231434045727853717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb107e4b048c1630800000000000000
+      internalID: 3899136561491483618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb760f5160506e20800000000000000
+      internalID: 3341759302645218285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87f5aeddeac9880800000000000000
+      internalID: -8602808920041359165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0eb56dd5fe79420800000000000000
+      internalID: 2636839293156057265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be2aff7b80587ae0800000000000000
+      internalID: -1551401511551357261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 222
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c4fe2db81d4e70800000000000000
+      internalID: 9100957622801318932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3990e08e0a6bced00800000000000000
+      internalID: 1003377619201034643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06099a02aa7c97760800000000000000
+      internalID: 7456210191594917984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7964ba9954639c0800000000000000
+      internalID: -3947891497037817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2069435c5637140800000000000000
+      internalID: 4716225132452250312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93d9b8c5b9b0c810800000000000000
+      internalID: 1783629642846557082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 197
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc9db2d0471db90800000000000000
+      internalID: -7218861127779103404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11a29bbc95d7400800000000000000
+      internalID: 323513479760318893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accec160ed6fcdba0800000000000000
+      internalID: -6062699564901798710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 172
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2012a045355d40800000000000000
+      internalID: 5572418665654004674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 172
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6992ab6d0f7352360800000000000000
+      internalID: 7144177891427363222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8937f2a9fbfea54b0800000000000000
+      internalID: -5450780792773971048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 172
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211cb953e6674020800000000000000
+      internalID: 2325940859209257248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 175
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c275db07d212c90800000000000000
+      internalID: -7196420767325148109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 172
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d880031d369668210800000000000000
+      internalID: 1334870216994195597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 172
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331dab4e45c9a3c70800000000000000
+      internalID: 8951639097780916531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 172
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29cdab20bcf1a280800000000000000
+      internalID: -9033661543951251154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 172
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a3fa283d9efec0800000000000000
+      internalID: -3531212193247550084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 147
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe315bc50e86080800000000000000
+      internalID: -9193851950497272848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34ca400c62e87a0800000000000000
+      internalID: -6373113816528698439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef6d9f1c0f420fd0800000000000000
+      internalID: -2377250739809587231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 147
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad274a1ff1142720800000000000000
+      internalID: 2820399053995978149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7889f769e215f0800000000000000
+      internalID: -787310352059040969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf35cef0a17b890800000000000000
+      internalID: -7442451203514696456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d052142afb67a00800000000000000
+      internalID: 754000691229691143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cccdeb242997cb0800000000000000
+      internalID: -4865697107029472128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7dd319efce351b0800000000000000
+      internalID: -5668926927826724879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 117
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bad46fb21d67670800000000000000
+      internalID: 8536240130473437983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 119
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d594794ea7c4fc20800000000000000
+      internalID: 3239433583356843478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 121
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ecd9e2b62024f0800000000000000
+      internalID: -855641379330791442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 118
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e69ff315c7de20800000000000000
+      internalID: 3375383135420604501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 118
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c474718cf1e2460800000000000000
+      internalID: 7218742196965952577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 118
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909d6eb89091cc720800000000000000
+      internalID: 2867694591520725257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30c7075c03caae0800000000000000
+      internalID: -1536799748286315593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a511be7e6ff2a90800000000000000
+      internalID: -7336373792021587333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 91
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13018355c87d604b0800000000000000
+      internalID: -5474451299297128399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e59ecc5a691bd0800000000000000
+      internalID: -2658977158150101941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793fc88233a01150800000000000000
+      internalID: 5841348154138507643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20338a85df2fb040800000000000000
+      internalID: 4665500333177516079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1887ad510130e0800000000000000
+      internalID: -2292049233600569969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be688d4803a96210800000000000000
+      internalID: 1326770821293174449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0bc10c6ec08e650800000000000000
+      internalID: 6262269467063791866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 66
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc94410743b2ff0800000000000000
+      internalID: -59896514058006714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 66
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b920b9d715b551a0800000000000000
+      internalID: -6821346946541672013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371fe0635d9a83600800000000000000
+      internalID: 448294896123441523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c028ef2caa3c59eb0800000000000000
+      internalID: -4713646296790040052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b4450b22592ed0800000000000000
+      internalID: -2438327378518951520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7081615c62d0b87b0800000000000000
+      internalID: -5221064882839480313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bda112897e51f90800000000000000
+      internalID: -6983421006591632619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 25
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b38515bb73f4e40800000000000000
+      internalID: 5642790135781669724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f93b7e8923a8b0800000000000000
+      internalID: -5142220657597482928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 25
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2357b274d213590800000000000000
+      internalID: -7696320504504438023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 25
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b53c014961345e0800000000000000
+      internalID: -1926671390392231074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464a0adc36886a900800000000000000
+      internalID: 695393154708317284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_84
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 25
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6932c931e48a8a230800000000000000
+      internalID: 3650352551273702294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31cd3f66a53f9100800000000000000
+      internalID: 116871104282083644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_86
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485ba93e576c52c0800000000000000
+      internalID: -4441561478102034355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9307cf0856c989b0800000000000000
+      internalID: -5077309023359401057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Giana Sisters DS - Playable Characters - Giana_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e4467da07f8e00800000000000000
+      internalID: 1049181128516494970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 705e1a9dd538ad547872ed2372feae22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_0: 2268972346068278886
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_1: 2991183636761820545
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_10: -726197732979261019
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_11: -3337272060792753584
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_12: -4156999833239469070
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_13: -5873217626735138074
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_14: 6471340420871944638
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_15: 3195534540562528023
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_16: -6499901159823886530
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_17: 3886476272210326172
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_18: -1368909556054222424
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_19: 6646622135504342839
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_2: -4891140126860558717
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_20: 1287119305025745550
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_21: -7057629918964642658
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_22: -5716031033399505997
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_23: -8834931700353013494
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_24: 4231434045727853717
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_25: 3899136561491483618
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_26: 3341759302645218285
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_27: -8602808920041359165
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_28: 2636839293156057265
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_29: -1551401511551357261
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_3: -6542476628935409117
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_30: 9100957622801318932
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_31: 1003377619201034643
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_32: 7456210191594917984
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_33: -3947891497037817884
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_34: 4716225132452250312
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_35: 1783629642846557082
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_36: -7218861127779103404
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_37: 323513479760318893
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_38: -6062699564901798710
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_39: 5572418665654004674
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_4: 6565253349126292158
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_40: 7144177891427363222
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_41: -5450780792773971048
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_42: 2325940859209257248
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_43: -7196420767325148109
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_44: 1334870216994195597
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_45: 8951639097780916531
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_46: -9033661543951251154
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_47: -3531212193247550084
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_48: -9193851950497272848
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_49: -6373113816528698439
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_5: -7644939013961658880
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_50: -2377250739809587231
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_51: 2820399053995978149
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_6: -2304566930164309574
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_63: -1536799748286315593
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_64: -7336373792021587333
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_65: -5474451299297128399
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_66: -2658977158150101941
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_67: 5841348154138507643
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_68: 4665500333177516079
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_69: -2292049233600569969
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_7: 4898533654492586558
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_70: 1326770821293174449
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_71: 6262269467063791866
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_72: -59896514058006714
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_73: -6821346946541672013
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_74: 448294896123441523
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_75: -4713646296790040052
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_76: -2438327378518951520
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_77: -5221064882839480313
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_78: -6983421006591632619
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_79: 5642790135781669724
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_8: -547166871686506540
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_80: -5142220657597482928
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_81: -7696320504504438023
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_82: -1926671390392231074
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_83: 695393154708317284
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_84: 3650352551273702294
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_85: 116871104282083644
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_86: -4441561478102034355
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_87: -5077309023359401057
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_88: 1049181128516494970
+      DS _ DSi - Giana Sisters DS - Playable Characters - Giana_9: -2691605045299926583
+      jump: 3239433583356843478
+      jump1: -787310352059040969
+      jump10: 2867694591520725257
+      jump2: -7442451203514696456
+      jump3: 754000691229691143
+      jump4: -4865697107029472128
+      jump5: -5668926927826724879
+      jump6: 8536240130473437983
+      jump7: -855641379330791442
+      jump8: 3375383135420604501
+      jump9: 7218742196965952577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
