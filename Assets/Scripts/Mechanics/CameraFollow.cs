@@ -11,6 +11,11 @@ public class CameraFollow : MonoBehaviour
     
     void Start()
     {
+        
+    }
+
+    void Update()
+    {
         if (target == null)
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
@@ -23,10 +28,7 @@ public class CameraFollow : MonoBehaviour
 
             target = player.transform;
         }
-    }
-
-    void Update()
-    {
+        
         if (target == null) return;
 
         Vector3 currentPos = transform.position;
