@@ -13,7 +13,7 @@ public class Marble : MonoBehaviour
 
         int numberOfStyles = anim.runtimeAnimatorController.animationClips.Length;
 
-        if (Style <= 0 || Style > numberOfStyles) Style = Random.Range(1, numberOfStyles + 1);
+        if (Style <= 0 || Style > numberOfStyles) Style = Random.Range(1, numberOfStyles);
 
         anim.Play(Style.ToString());
     }
