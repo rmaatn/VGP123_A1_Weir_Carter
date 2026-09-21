@@ -28,6 +28,10 @@ public class GameManager : MonoBehaviour
 
     public System.Action<int> OnLivesChanged;
 
+    private bool isPaused = false;
+    public bool IsPaused => isPaused;
+    public System.Action<bool> OnPauseChanged;
+
     
     public int Lives
     {
@@ -72,6 +76,13 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            isPaused = !isPaused;
+            Time.timeScale = isPaused ? 0f : 1f;
+            OnPauseChanged?.Invoke(isPaused);
+        }
+        
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             string currentSceneName = SceneManager.GetActiveScene().name;
@@ -114,5 +125,14 @@ public class GameManager : MonoBehaviour
     private void Respawn()
     {
         playerInstance.transform.position = currentCheckpoint;
+    }
+
+    public void QuitGame()
+    {
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            Application.Quit();
+        #endif
     }
 }
