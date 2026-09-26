@@ -4,12 +4,22 @@ public class Collectible : MonoBehaviour
 {
     [SerializeField] private float amplitude = 0.125f;
     [SerializeField] private float speed = 1f;
-   
-   
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip collectSound;
+    [SerializeField, Range(0f, 1f)] private float collectVolume = 0.3f;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
+            AudioSource.PlayClipAtPoint(collectSound, transform.position, collectVolume);
+
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.CollectMarble();
+            }
+
             Destroy(gameObject);
         }
     }
@@ -18,7 +28,6 @@ public class Collectible : MonoBehaviour
 
     void Start()
     {
-        // Store the original starting position
         startPosition = transform.position;
     }
 

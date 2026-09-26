@@ -8,6 +8,8 @@ public class Projectile : MonoBehaviour
 
     private float lifetime = 10f;
 
+    [SerializeField] private int damageAmount = 1;
+
     private Rigidbody2D rb;
 
     private void Awake()
@@ -29,6 +31,11 @@ public class Projectile : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.Lives -= damageAmount;
+            }
+
             Destroy(gameObject);
         }
         else if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))

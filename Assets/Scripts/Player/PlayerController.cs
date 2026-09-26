@@ -9,11 +9,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private float jumpForce = 7f;
 
+    [Header("Audio")]
+    [SerializeField] private AudioClip damageSound;
+    [SerializeField, Range(0f, 1f)] private float damageVolume = 0.3f;
 
     private Rigidbody2D rb;
     private Collider2D col;
     private SpriteRenderer sr;
     private Animator anim;
+    private AudioSource audioSource;
 
     private Vector2 groundCheckPos => CalculateGroundCheckPos();
 
@@ -31,7 +35,7 @@ public class PlayerController : MonoBehaviour
     }
     private bool _isGrounded;
 
-    private Shoot shoot;
+    private int previousLives;
 
     void Start()
     {
@@ -39,6 +43,31 @@ public class PlayerController : MonoBehaviour
         col = GetComponent<BoxCollider2D>();
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
+
+        if (GameManager.Instance != null)
+        {
+            previousLives = GameManager.Instance.Lives;
+            GameManager.Instance.OnLivesChanged += HandleLivesChanged;
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.OnLivesChanged -= HandleLivesChanged;
+        }
+    }
+
+    private void HandleLivesChanged(int newLives)
+    {
+        if (newLives < previousLives)
+        {
+            audioSource.PlayOneShot(damageSound, damageVolume);
+        }
+
+        previousLives = newLives;
     }
 
     void Update()

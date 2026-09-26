@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class Spider : MonoBehaviour
 {
     [Header("Detection")]
@@ -13,7 +14,17 @@ public class Spider : MonoBehaviour
     [SerializeField] private float webSpeed = 8f;
     [SerializeField] private float fireCooldown = 1.5f;
 
+    [Header("Audio")]
+    [SerializeField] private AudioClip webShootSound;
+    [SerializeField, Range(0f, 1f)] private float shootVolume = 0.3f;
+
     private float cooldownTimer;
+    private AudioSource audioSource;
+
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     private void Update()
     {
@@ -71,6 +82,8 @@ public class Spider : MonoBehaviour
         );
 
         web.SetVelocity(direction * webSpeed);
+
+        audioSource.PlayOneShot(webShootSound, shootVolume);
     }
 
     private void OnDrawGizmosSelected()

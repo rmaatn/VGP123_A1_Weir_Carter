@@ -20,6 +20,19 @@ public class GameManager : MonoBehaviour
     }
     #endregion
 
+
+    #region Marbles
+    private int _marbles = 0;
+    public int Marbles => _marbles;
+    public System.Action<int> OnMarblesChanged;
+
+    public void CollectMarble()
+    {
+        _marbles++;
+        OnMarblesChanged?.Invoke(_marbles);
+    }
+    #endregion
+
     #region Lives
     [Range(0, 9)]
     public int startingLives = 3;
@@ -80,6 +93,7 @@ public class GameManager : MonoBehaviour
         {
             isPaused = !isPaused;
             Time.timeScale = isPaused ? 0f : 1f;
+            AudioListener.pause = isPaused;
             OnPauseChanged?.Invoke(isPaused);
         }
         

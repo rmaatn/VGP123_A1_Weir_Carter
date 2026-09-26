@@ -167,6 +167,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Collectible
   amplitude: 0.125
   speed: 1.5
+  collectSound: {fileID: 8300000, guid: 2f7841239b4a70149ad1ef0c34bd04d1, type: 3}
+  collectVolume: 0.3
 --- !u!114 &437295844812719715
 MonoBehaviour:
   m_ObjectHideFlags: 0
