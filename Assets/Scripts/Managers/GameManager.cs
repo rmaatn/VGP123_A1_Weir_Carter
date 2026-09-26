@@ -89,19 +89,27 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P))
+        string currentSceneName = SceneManager.GetActiveScene().name;
+
+        if (currentSceneName == "2.Game" && Input.GetKeyDown(KeyCode.P))
         {
             isPaused = !isPaused;
             Time.timeScale = isPaused ? 0f : 1f;
             AudioListener.pause = isPaused;
             OnPauseChanged?.Invoke(isPaused);
         }
-        
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            string currentSceneName = SceneManager.GetActiveScene().name;
-            string sceneToLoad = currentSceneName == "1.Title" ? "2.Game" : "1.Title";
+            if (isPaused)
+            {
+                isPaused = false;
+                Time.timeScale = 1f;
+                AudioListener.pause = false;
+                OnPauseChanged?.Invoke(false);
+            }
 
+            string sceneToLoad = currentSceneName == "1.Title" ? "2.Game" : "1.Title";
             SceneManager.LoadScene(sceneToLoad);
         }
 
@@ -119,6 +127,8 @@ public class GameManager : MonoBehaviour
     public void SpawnPlayer(Vector3 pos)
     {
         Lives = startingLives;
+        _marbles = 0;
+        OnMarblesChanged?.Invoke(_marbles);
 
         playerInstance = Instantiate(playerPrefab, pos, Quaternion.identity);
         OnPlayerSpawned?.Invoke(playerInstance);
